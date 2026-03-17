@@ -313,7 +313,8 @@ The AWS Command Line Interface (AWS CLI) is **a unified tool to manage your AWS 
 
 - **Task#05- How to Start, Stop & Terminate the Instance**
 
-> Access all Labs here: (https://github.com/Saima-Devops/AWS-Automation-with-Python/tree/616d48bdc0577b83cecc08ea165f118ce4de1a37/Boto3-EC2-Oerations)
+
+Access all Labs here: (https://github.com/Saima-Devops/AWS-Automation-with-Python/tree/616d48bdc0577b83cecc08ea165f118ce4de1a37/Boto3-EC2-Oerations)
 
 ----------
 
@@ -330,4 +331,5 @@ The AWS Command Line Interface (AWS CLI) is **a unified tool to manage your AWS 
 - How to Download a File from the S3 Bucket
 - How to Delete a File from the S3
 
-> Access all Labs here: 
+
+Access all Labs here: 
