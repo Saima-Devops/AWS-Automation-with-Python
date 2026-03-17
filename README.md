@@ -298,9 +298,32 @@ The AWS Command Line Interface (AWS CLI) is **a unified tool to manage your AWS 
 
 - aws configure 
 
+-----
 
-**Task#01- First Automation Script to list all the IAM Users in your Account**
+## Boto3 EC2 Automation
 
-**Task#02- Lists all the IAM users throuh Boto3 automation**
 
-**Task#03- List all the running EC2 instances with their IDs & Names**
+- **Task#01- First Automation Script to list all the IAM Users in your Account**
+
+- **Task#02- Lists all the IAM users throuh Boto3 automation**
+
+- **Task#03- List all the running EC2 instances with their IDs & Names**
+
+- **Task#04- Launch EC2 Instance by using Boto3 script**
+
+- **Task#05- How to Start, Stop & Terminate the Instance**
+
+----------
+
+**Use Boto3 Documentation to get more information (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)**
+
+---------
+
+## S3 Buket Operartrions through Boto3 automation
+
+- How to Create an S3 Bucket
+- How to List the existing S3 Buckets
+- How to Delete an S3 Bucket
+- How to Upload a File to the S3 Bucket
+- How to Download a File from the S3 Bucket
+- How to Delete a File from the S3
